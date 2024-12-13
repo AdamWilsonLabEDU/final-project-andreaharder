@@ -12,12 +12,5 @@
     "title": "GEO511_FinalProject",
     "section": "",
     "text": "Place any data needed by your analysis in this folder. Please do not store large files here. Then read in any data using the ‘data’ path. For example, read_csv(\"data/data.csv\")."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "<<<<<<< HEAD",
-    "section": "",
-    "text": "&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD\n\n\n\n\n\n\n\nc0a143ed680f975904f943205842bdf24eb606c6"
   }
 ]
